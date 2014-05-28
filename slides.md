@@ -6,7 +6,7 @@ transition-speed: fast
 *subtitle*
 
 event </br>
-date
+Material in here: [muuankarski.github.io/tutzing-seminar-2014/](http://muuankarski.github.io/tutzing-seminar-2014/)
 
 <a href="http://markuskainu.fi">Markus Kainu</a></br>
 *Researcher* </br>
