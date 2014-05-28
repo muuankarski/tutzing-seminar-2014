@@ -1,0 +1,22 @@
+---
+title: "My presentation"
+author: "Markus Kainu"
+date: "28.05.2014"
+output:
+  html_document:
+    theme: cosmo
+---
+
+## Presentation
+
+<iframe src="//player.vimeo.com/video/96675157" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96675157">regensburg</a> from <a href="http://vimeo.com/user2534934">Markus Kainu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Material
+
+- [slides](slides.html)
+
+
+## Discussion
+
+- my skype name is `mjkain`
+- [you can write comment here](http://pad.okfn.org/p/tutzing-seminar-2014)
