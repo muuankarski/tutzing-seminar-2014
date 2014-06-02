@@ -9,14 +9,19 @@ output:
 
 ## Presentation
 
-<iframe src="//player.vimeo.com/video/96675157" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96675157">regensburg</a> from <a href="http://vimeo.com/user2534934">Markus Kainu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**Video will be published by noon on Wednesday!**
+
+![](http://www.invisionpro.com/wp-includes/images/invisionpro-VideoProduction-greenscreen-VideoShooting-VideoForWeb.jpg)
+
+<!--
+<iframe src="//player.vimeo.com/video/96675157" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96675157">regensburg</a> from <a href="http://vimeo.com/user2534934">Markus Kainu</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
 
 ## Material
 
 - project site: [muuankarski.github.io/attributions/](http://muuankarski.github.io/attributions/)
     - find the data & R-code etc. from there
 - [current version of the paper](http://muuankarski.github.io/attributions/article2013.pdf)
-- [presentation slides](slides.html)
+- [presentation slides](http://muuankarski.github.io/attributions/attrib_slides.html)
 
 ## Discussion
 
