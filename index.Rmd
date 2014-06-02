@@ -1,7 +1,7 @@
 ---
-title: "My presentation"
+title: "Attributions for Poverty in Post-Socialist Countries"
 author: "Markus Kainu"
-date: "28.05.2014"
+date: "June 4, 2014 "
 output:
   html_document:
     theme: cosmo
@@ -13,8 +13,10 @@ output:
 
 ## Material
 
-- [slides](slides.html)
-
+- project site: [muuankarski.github.io/attributions/](http://muuankarski.github.io/attributions/)
+    - find the data & R-code etc. from there
+- [current version of the paper](http://muuankarski.github.io/attributions/article2013.pdf)
+- [presentation slides](slides.html)
 
 ## Discussion
 
