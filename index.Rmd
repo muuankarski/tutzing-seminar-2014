@@ -9,9 +9,9 @@ output:
 
 ## Presentation
 
+
 **Video will be published by noon on Wednesday!**
 
-![](http://www.invisionpro.com/wp-includes/images/invisionpro-VideoProduction-greenscreen-VideoShooting-VideoForWeb.jpg)
 
 <!--
 <iframe src="//player.vimeo.com/video/96675157" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96675157">regensburg</a> from <a href="http://vimeo.com/user2534934">Markus Kainu</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
@@ -25,5 +25,14 @@ output:
 
 ## Discussion
 
-- my skype name is `mjkain`
+- my skype name: `mjkain`
 - [you can write comment here](http://pad.okfn.org/p/tutzing-seminar-2014)
+
+
+## Misc links
+
+- my website: [http://markuskainu.fi/](http://markuskainu.fi/)
+- projects in R: [http://ropengov.github.io/](http://ropengov.github.io/) - *R Ecosystem for Open Government Data and Computational Social Science*
+- [Aleksanteri-institute](http://www.helsinki.fi/aleksanteri/english/)
+    - [The Finnish Centre of Excellence in Russian Studies – Choices of Russian Modernisation 2012-2017](http://www.helsinki.fi/aleksanteri/crm/index.html)
+        - [Cluster 3. Welfare Regime](http://www.helsinki.fi/aleksanteri/crm/structure.html#cluster3)
