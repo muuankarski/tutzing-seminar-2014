@@ -9,12 +9,11 @@ output:
 
 ## Presentation
 
+*****
 
-**Video will be published by noon on Wednesday!**
+**Will be here at any minute..**
 
-
-<!--
-<iframe src="//player.vimeo.com/video/96675157" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96675157">regensburg</a> from <a href="http://vimeo.com/user2534934">Markus Kainu</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
+*****
 
 ## Material
 
@@ -27,6 +26,12 @@ output:
 
 - my skype name: `mjkain`
 - [you can write comment here](http://pad.okfn.org/p/tutzing-seminar-2014)
+
+## Things I forgot to say in the video
+
+- A **must read** recent book on the topic by Serena Romano: [Romano, Serena. The Political and Social Construction of Poverty: Central and Eastern European Countries in Transition. Policy Press, 2014.](http://www.policypress.co.uk/display.asp?k=9781447312710)
+
+<img src="http://www.policypress.co.uk/localjackets/l/9781447312710.jpg" width="200px"/>
 
 
 ## Misc links
